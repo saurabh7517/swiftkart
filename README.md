@@ -1,5 +1,21 @@
-# swiftkart
-This is an e-commerce application. Front end is developed in React and back-end is developed in java(spring framework). The project is undertaken for hands on experience with React api’s.
+# swiftkart app
+This is an e-commerce application. Front end is developed in React and back-end is developed in java(spring framework). The project is undertaken for hands on experience with React api’s. React's Context API is used to manage state for complete front end application
+
+## Tech Stack
+- FrontEnd
+  - React
+  - ES6
+  - react-router
+  - bootstrap
+  - react-bootstrap
+  
+- Backend
+  - Java 8
+  - Spring Framework
+  - WebSockets(for updating count values for logged in users)
+  - Mysql
+  - JDBC 
+  - javawebtokens for authorization and authentication 
 ## Demo
 ### When user is not logged in
 - Home Page consists of a jumbotron and a slider.
