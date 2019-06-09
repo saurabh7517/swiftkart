@@ -1,5 +1,5 @@
 # swiftkart app
-This app is an mock online store. React's Context API is used to manage state for complete front end application.
+This app is a mock online store. React's Context API is used to manage state for complete front end application.
 
 ## Tech Stack
 - FrontEnd
