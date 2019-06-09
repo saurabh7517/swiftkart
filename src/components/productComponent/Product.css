@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+img{
+    height: 150px;
+    width: 100%;
+}
+.card{
+    padding: 0px;
+    margin: 10px;
+}

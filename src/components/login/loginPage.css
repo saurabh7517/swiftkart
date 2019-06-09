@@ -1,0 +1,9 @@
+@charset "utf-8";
+#formContainer{
+    background-color: rgb(54, 64, 68);
+    color: white;
+    margin-top: 100px;
+    padding:30px 30px 30px 30px;
+    width:500px;
+    border-radius: 10px;
+}

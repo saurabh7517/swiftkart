@@ -1,0 +1,10 @@
+@charset "utf-8";
+#totalContainer{
+    padding:30px;
+    background-color: rgb(242, 144, 31);
+    text-align: right;
+    font-family: sans-serif;
+    color:cornsilk;
+    font-weight:bolder;
+    border-radius: 10px;
+}

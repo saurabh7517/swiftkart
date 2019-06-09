@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+#modalContainer{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);    
+    align-items: center;    
+    justify-content: center;
+
+}
+img{
+    padding-bottom: 10px;
+}
+#modal{
+    margin-top:200px;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+
+    
+}
+button{
+    margin-bottom: 10px;
+}
