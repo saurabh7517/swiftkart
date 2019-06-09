@@ -1,5 +1,5 @@
 # swiftkart app
-This is an e-commerce application. Front end is developed in React and back-end is developed in java(spring framework). The project is undertaken for hands on experience with React api’s. React's Context API is used to manage state for complete front end application
+This app is an mock online store. React's Context API is used to manage state for complete front end application.
 
 ## Tech Stack
 - FrontEnd
