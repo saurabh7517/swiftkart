@@ -9,7 +9,8 @@ import Login from "./login/loginPage";
 import ProductDetail from "./productComponent/ProductDetail";
 import Cart from "./cart/Cart";
 import Logout from "./logout/Logout";
-import "./app.css"
+import "./app.css";
+import PrivateRoute from "./secure/PrivateRoute";
 import RegisterSuccess from './register/RegisterSuccess';
 
 const App = () => {
@@ -21,7 +22,7 @@ const App = () => {
             
             <Switch>
                 <Route exact path="/" component={HomePage} />
-                <Route path="/products" component={ProductList} />
+                <PrivateRoute path="/products" component={ProductList} />
                 <Route path="/register" component={Register} />
                 <Route path="/login" component={Login}/>
                 <Route path="/details" component={ProductDetail}/>
