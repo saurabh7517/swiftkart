@@ -450,7 +450,7 @@ class ProductProvider extends React.Component {
 
     componentDidUpdate() {
         if (!this.state.socketConnected) {
-            this.startWebSocketClient(URL);
+            // this.startWebSocketClient(URL);
         }
     }
 
@@ -458,7 +458,7 @@ class ProductProvider extends React.Component {
 
     componentDidMount(props) {
         if (!this.state.socketConnected) {
-            this.startWebSocketClient(URL);
+            // this.startWebSocketClient(URL);
         }
     }
 }
